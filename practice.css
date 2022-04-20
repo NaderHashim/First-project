@@ -1,0 +1,17 @@
+menu {
+    display: flex;
+    list-style: disc;
+    padding: 300;
+    width: 600px;
+  }
+  
+  li {
+    flex-grow: 1;
+  }
+  
+  button {
+    width: 90%;
+    color: rgb(170, 22, 22)
+    
+  }
+  
