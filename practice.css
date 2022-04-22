@@ -1,6 +1,6 @@
 menu {
     display: flex;
-    list-style: disc;
+    list-style: unset;
     padding: 300;
     width: 600px;
   }
@@ -11,7 +11,7 @@ menu {
   
   button {
     width: 90%;
-    color: rgb(170, 22, 22)
+    color: rgb(0, 0, 0)
     
   }
   
